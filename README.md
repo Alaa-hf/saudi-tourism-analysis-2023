@@ -7,6 +7,10 @@ Dataset
 Source: Saudi Open Data Portal
 Dataset: Domestic Tourists Number and Spending by Destination (2023)
 
+
+The original dataset can be downloaded from the Saudi Open Data Portal:
+https://portal.opendata.sa/dataset/xxxx
+
 Variables used:
 -Total number of domestic tourists per month
 -Total monthly tourism spending
